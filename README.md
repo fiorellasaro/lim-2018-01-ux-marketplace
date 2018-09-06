@@ -208,6 +208,9 @@ Con lo observado pudimos realizar ciertas iteraciones. Algunas de ellas fueron l
 * [Videos y guía de testing](https://drive.google.com/drive/folders/1ejq7bfFPue8Lq4arsUBAOiMx1gvvfqHc?usp=sharing)
 ![UP](https://crisescobar.files.wordpress.com/2018/09/40595666_1921629944799067_8594101792608878592_n.jpg)
 
+### Hacker edition
+* [Mira nuestro blog con el proyecto](https://florirbdec96.wixsite.com/phoenix)
+
 
 
 
